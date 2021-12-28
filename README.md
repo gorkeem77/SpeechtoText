@@ -1,2 +1,0 @@
-# SpeechtoText
-konuşmadan metne
